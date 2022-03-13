@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Album Foto</string>
+    <string name="orca_image">orca Image</string>
+    <string name="orca">Orca</string>
+    <string name="shark_image">shark image</string>
+    <string name="shark">Shark</string>
+    <string name="dolphin_image">dolphin image</string>
+    <string name="dolphin">Dolphin</string>
+    <string name="whale_image">whale image</string>
+    <string name="whale">Whale</string>
+</resources>
